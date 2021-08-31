@@ -4,7 +4,7 @@ I am Spadey! i like pizza
 
 ### Profile Guest
 
-![](https://komarev.com/ghpvc/?username=SpadeyDev&color=green)
+![](https://komarev.com/ghpvc/?username=SpadeyDev&color=ff69b4)
 
 <!--
 **SpadeyDev/SpadeyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
