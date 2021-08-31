@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <img src="https://count.getloli.com/get/@:330?theme=rule34" alt=":330" />
+ <img src="https://count.getloli.com/get/@SpadeyDev?theme=rule34" alt="SpadeyDev" />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpadeyDev&theme=radical)
 
