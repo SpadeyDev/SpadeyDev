@@ -6,6 +6,9 @@ I am Spadey! i like pizza
 
 ![](https://komarev.com/ghpvc/?username=SpadeyDev&color=ff69b4)
 
+### Discord Profile
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/727647625255321731?theme=light&bg=ffffff&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/727647625255321731)
 <!--
 **SpadeyDev/SpadeyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
