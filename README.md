@@ -1,6 +1,6 @@
-### Hello There
+### Hello! XXX
 
-I am Spadey! i like pizza
+We don't know enough about Spadey, but we're sure it's great!
 
 ### Profile Guest
 
