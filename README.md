@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/php%20-%23323330.svg?&style=for-the-badge&logo=php&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/node.js%20-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/vue.js%20-%23323330.svg?&style=for-the-badge&logo=vue.js&logoColor=%23F7DF1E"/>
+<img src="https://camo.githubusercontent.com/9677cecf171cde6fef7100ee6f59b063fedb0671ba3d8d1777e672ddbbe612c1/68747470733a2f2f626c6f672e676f6c616e672e6f72672f676f2d6272616e642f476f2d4c6f676f2f504e472f476f2d4c6f676f5f426c75652e706e67"/>
 </div>
 
 ### Profile Guest
