@@ -1,12 +1,4 @@
-### Hello! XXX
-
-We don't know enough about Spadey, but we're sure it's great!
-
 <h1 align="center">Spadey</h1> 
-
-### Profile Guest
-![](https://komarev.com/ghpvc/?username=SpadeyDev&color=ff69b4)
-
 
 <p align="center">
    <a href="https://discord.gg/kyTCcYKA4w" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -26,7 +18,8 @@ We don't know enough about Spadey, but we're sure it's great!
 <img src="https://img.shields.io/badge/vue.js%20-%23323330.svg?&style=for-the-badge&logo=vue.js&logoColor=%23F7DF1E"/>
 </div>
 
-
+### Profile Guest
+![](https://komarev.com/ghpvc/?username=SpadeyDev&color=ff69b4)
 
 
 ### Github Stats
