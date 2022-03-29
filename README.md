@@ -23,9 +23,9 @@
 
 ### About me
 
-EN: Hi, I don't post much on this github account. I only occasionally share my favorite projects and favourites. I'm also interested in bug hunting and security vulnerabilities. If you want to reach me, you can reach me on Discord or instagram ^-^ Don't forget to stay sweet!
+<b>EN:</b> Hi, I don't post much on this github account. I only occasionally share my favorite projects and favourites. I'm also interested in bug hunting and security vulnerabilities. If you want to reach me, you can reach me on Discord or instagram ^-^ Don't forget to stay sweet!
 
-ES: Hola, no publico mucho en esta cuenta de github. Solo ocasionalmente comparto mis proyectos favoritos. También estoy interesado en la caza de errores y en la búsqueda de vulnerabilidades. Si quieres contactarme, puedes hacerlo en Discord o Instagram ^-^ ¡No olvides mantenerte dulce!
+<b>ES:</b> Hola, no publico mucho en esta cuenta de github. Solo ocasionalmente comparto mis proyectos favoritos. También estoy interesado en la caza de errores y en la búsqueda de vulnerabilidades. Si quieres contactarme, puedes hacerlo en Discord o Instagram ^-^ ¡No olvides mantenerte dulce!
 ### Github Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpadeyDev&theme=radical)
