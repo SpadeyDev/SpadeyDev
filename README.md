@@ -16,8 +16,6 @@
 <img src="https://img.shields.io/badge/php%20-%23323330.svg?&style=for-the-badge&logo=php&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/node.js%20-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=%23F7DF1E"/>
 
-</div>
-
 ### Profile Guest
 ![](https://komarev.com/ghpvc/?username=SpadeyDev&color=ff69b4)
 
@@ -26,6 +24,54 @@
 <b>EN:</b> Hi, I don't post much on this github account. I only occasionally share my favorite projects and favourites. I'm also interested in bug hunting and security vulnerabilities. If you want to reach me, you can reach me on Discord or instagram ^-^ Don't forget to stay sweet!
 
 <b>ES:</b> Hola, no publico mucho en esta cuenta de github. Solo ocasionalmente comparto mis proyectos favoritos. También estoy interesado en la caza de errores y en la búsqueda de vulnerabilidades. Si quieres contactarme, puedes hacerlo en Discord o Instagram ^-^ ¡No olvides mantenerte dulce!
+
+</div>
+
+```js
+class Astpod {
+  constructor(...options) {
+    this.height = "1.85"
+    this.weight = "63"
+    this.type = "human"
+    this.job = "Tencent Game"
+    this.sex = "xxx"
+  }
+}
+
+class CreateMan extends Astpod {
+  constructor(...options) {
+    super(options);
+  }
+  
+  private _eating() {
+    void "eating 🍔 🍟 🍗 🥤"
+  }
+  
+  private _coding() {
+    void "coding... ❤️"
+  }
+  
+  private _sleep(ms) { return new Promise(resolve => setTimeout(resolve, ms)) }
+  
+  async createDay() {
+    this._eating()
+    this._coding()
+    await this._sleep(18000000)
+    
+    this.createDay()
+  }
+  
+}
+
+let Astpod = new CreateMan()
+Astpod.createDay();
+
+let Astpod = new CreateMan()
+Astpod.createDay();
+```
+
+
+
 ### Github Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpadeyDev&theme=radical)
