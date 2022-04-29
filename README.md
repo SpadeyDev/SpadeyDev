@@ -31,7 +31,7 @@
 class Spadey {
   constructor(...options) {
     this.height = "1.80"
-    this.weight = "63"
+    this.weight = "71"
     this.type = "human"
     this.job = "Tencent Games"
     this.sex = "xxx"
