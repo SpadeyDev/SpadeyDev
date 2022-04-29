@@ -30,10 +30,10 @@
 ```js
 class Astpod {
   constructor(...options) {
-    this.height = "1.85"
+    this.height = "1.80"
     this.weight = "63"
     this.type = "human"
-    this.job = "Tencent Game"
+    this.job = "Tencent Games"
     this.sex = "xxx"
   }
 }
