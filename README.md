@@ -28,7 +28,7 @@
 </div>
 
 ```js
-class Astpod {
+class Spadey {
   constructor(...options) {
     this.height = "1.80"
     this.weight = "63"
@@ -38,7 +38,7 @@ class Astpod {
   }
 }
 
-class CreateMan extends Astpod {
+class CreateHuman extends Spadey {
   constructor(...options) {
     super(options);
   }
@@ -63,11 +63,11 @@ class CreateMan extends Astpod {
   
 }
 
-let Astpod = new CreateMan()
-Astpod.createDay();
+let Spadey = new CreateHuman()
+Spadey.createDay();
 
-let Astpod = new CreateMan()
-Astpod.createDay();
+let Spadey = new CreateHuman()
+Spadey.createDay();
 ```
 
 
