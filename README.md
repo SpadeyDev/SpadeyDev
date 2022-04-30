@@ -33,7 +33,7 @@ class Spadey {
     this.height = "1.80"
     this.weight = "71"
     this.type = "human"
-    this.job = "Tencent Games"
+    this.job = "Tencent Games","CEO of Disparty"
     this.sex = "xxx"
   }
 }
