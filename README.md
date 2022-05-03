@@ -30,7 +30,7 @@
 ```js
 class Spadey {
   constructor(...options) {
-    this.height = "1.80"
+    this.height = "1.79"
     this.weight = "71"
     this.type = "human"
     this.job = "Tencent Games","CEO of Disparty"
