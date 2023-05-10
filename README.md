@@ -1,5 +1,5 @@
 ### Hey!
-<img src="[https://github.com/barbecue/barbecue/blob/master/media/banner.png?raw=true](https://media.discordapp.net/attachments/743973619553534075/1105876934832967740/b5fea982-a65f-4028-96a7-a687dcb163df.png)">
+<img src="https://media.discordapp.net/attachments/743973619553534075/1105876934832967740/b5fea982-a65f-4028-96a7-a687dcb163df.png">
 <p align="center">
    <a href="https://discord.com/users/727647625255321731" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://open.spotify.com/user/er9niacy60slkwt1amk2j1q1u" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
