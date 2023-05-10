@@ -1,4 +1,5 @@
-### Hey!
+
+![](https://komarev.com/ghpvc/?username=SpadeyDev&color=ff69b4)
 <img src="https://media.discordapp.net/attachments/743973619553534075/1105876934832967740/b5fea982-a65f-4028-96a7-a687dcb163df.png">
 <p align="center">
    <a href="https://discord.com/users/727647625255321731" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -8,8 +9,6 @@
    <a href="https://github.com/spadeydev" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
    <a href="https://twitter.com/spadeydev" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
-
-![](https://komarev.com/ghpvc/?username=SpadeyDev&color=ff69b4)
 
 
 
