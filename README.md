@@ -1,6 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=SpadeyDev&color=ff69b4)
-<img src="https://media.discordapp.net/attachments/743973619553534075/1105876934832967740/b5fea982-a65f-4028-96a7-a687dcb163df.png">
-
+> Hi, I'm Spadey. I've been trying to improve myself in the frontend field for about a year and at the same time I've been dealing with backend at a certain level with the server actions provided by nextjs.
 
 
 
