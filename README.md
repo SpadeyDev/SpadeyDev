@@ -5,4 +5,4 @@
 React - 
 Javascript -
 Node.js -
-Nest.js
+Next.js
